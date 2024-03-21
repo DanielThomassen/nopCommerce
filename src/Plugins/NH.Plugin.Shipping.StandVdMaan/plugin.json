@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Shipping methods",
+  "FriendlyName": "Stand v.d. Maan",
+  "SystemName": "NH.Plugin.Shipping.StandVdMaan",
+  "Version": "0.1",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "NewHeap",
+  "DisplayOrder": -1,
+  "FileName": "NH.Plugin.Shipping.StandVdMaan.dll",
+  "Description": ""
+}
