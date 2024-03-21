@@ -140,6 +140,7 @@ public class FixedByWeightByTotalComputationMethod : BasePlugin, IShippingRateCo
             if (getShippingOptionRequest.ShippingAddress == null)
             {
                 response.AddError("Shipping address is not set");
+                response.AddError("Shipping address is not set");
                 return response;
             }
 
